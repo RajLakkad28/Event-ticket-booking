@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Event-ticket-booking/static/css/main.695ed344.css",
+    "main.js": "/Event-ticket-booking/static/js/main.5ed45d39.js",
+    "static/media/event1.jpg": "/Event-ticket-booking/static/media/event1.a783063d5012afa54579.jpg",
+    "static/media/event4.jpg": "/Event-ticket-booking/static/media/event4.b269e58a3ee1530fbf88.jpg",
+    "static/media/e1.jpg": "/Event-ticket-booking/static/media/e1.9984e06c45ad5933d6f9.jpg",
+    "static/media/event2.jpg": "/Event-ticket-booking/static/media/event2.e0fa259a50d653149b72.jpg",
+    "static/media/event.jpg": "/Event-ticket-booking/static/media/event.77cd37677cc475df2ae8.jpg",
+    "static/media/event5.jpg": "/Event-ticket-booking/static/media/event5.e68faff6d9481c8ca647.jpg",
+    "static/media/e6.jpg": "/Event-ticket-booking/static/media/e6.fd5022df6f463651f1bc.jpg",
+    "static/media/e4.jpg": "/Event-ticket-booking/static/media/e4.afe8325a3b476fc5ed28.jpg",
+    "static/media/e3.jpg": "/Event-ticket-booking/static/media/e3.ce42f4bf7ab0f723ad77.jpg",
+    "static/media/event3.jpg": "/Event-ticket-booking/static/media/event3.c16d9e9c6e9286e8b287.jpg",
+    "static/media/e2.jpeg": "/Event-ticket-booking/static/media/e2.f1f465d50d4da25f6bf6.jpeg",
+    "static/media/e9.jpg": "/Event-ticket-booking/static/media/e9.a7518d6cd85af9a7b1c9.jpg",
+    "static/media/e5.jpg": "/Event-ticket-booking/static/media/e5.aaa7092f2f2324d9b05c.jpg",
+    "static/media/e8.jpg": "/Event-ticket-booking/static/media/e8.f49c0e75b3e2eebb9895.jpg",
+    "static/media/e10.jpg": "/Event-ticket-booking/static/media/e10.545c0ba20982743dc8d9.jpg",
+    "static/media/e7.jpg": "/Event-ticket-booking/static/media/e7.380470cffd556af1508d.jpg",
+    "static/media/e11.jpg": "/Event-ticket-booking/static/media/e11.a3724ac9678cee2bed14.jpg",
+    "index.html": "/Event-ticket-booking/index.html",
+    "main.695ed344.css.map": "/Event-ticket-booking/static/css/main.695ed344.css.map",
+    "main.5ed45d39.js.map": "/Event-ticket-booking/static/js/main.5ed45d39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695ed344.css",
+    "static/js/main.5ed45d39.js"
+  ]
+}
