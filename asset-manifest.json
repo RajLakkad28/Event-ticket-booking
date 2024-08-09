@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Event-ticket-booking/static/css/main.695ed344.css",
-    "main.js": "/Event-ticket-booking/static/js/main.a0f0d3d2.js",
+    "main.js": "/Event-ticket-booking/static/js/main.f1865815.js",
     "static/media/event1.jpg": "/Event-ticket-booking/static/media/event1.a783063d5012afa54579.jpg",
     "static/media/event4.jpg": "/Event-ticket-booking/static/media/event4.b269e58a3ee1530fbf88.jpg",
     "static/media/e1.jpg": "/Event-ticket-booking/static/media/e1.9984e06c45ad5933d6f9.jpg",
@@ -21,10 +21,10 @@
     "static/media/e11.jpg": "/Event-ticket-booking/static/media/e11.a3724ac9678cee2bed14.jpg",
     "index.html": "/Event-ticket-booking/index.html",
     "main.695ed344.css.map": "/Event-ticket-booking/static/css/main.695ed344.css.map",
-    "main.a0f0d3d2.js.map": "/Event-ticket-booking/static/js/main.a0f0d3d2.js.map"
+    "main.f1865815.js.map": "/Event-ticket-booking/static/js/main.f1865815.js.map"
   },
   "entrypoints": [
     "static/css/main.695ed344.css",
-    "static/js/main.a0f0d3d2.js"
+    "static/js/main.f1865815.js"
   ]
 }
